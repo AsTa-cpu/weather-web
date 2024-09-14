@@ -70,6 +70,7 @@ button:hover {
   white-space: nowrap;
   display: flex;
   justify-content: space-between;
+  height: ;
 }
 .hourly-item {
   flex: 0 0 auto;
